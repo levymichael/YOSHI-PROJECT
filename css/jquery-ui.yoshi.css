@@ -22,7 +22,7 @@ body{
 	position: absolute;
 	width: 7867px;
  	height:1034px;
-  	background-size: 75%;
+  	background-size: 60%;
   	margin-left: -100px;
    	}
 
@@ -33,7 +33,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:50%;
-  		top:480px;
+  		top:360px;
   		z-index: 999;
  }
 
@@ -65,7 +65,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:900px;
-  		top:400px;
+  		top:280px;
  }
 .ring3{
 		width: 88px ;
@@ -74,7 +74,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:1200px;
-  		top:400px;
+  		top:280px;
  }
  .ring4{
 		width: 88px ;
@@ -83,7 +83,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:1300px;
-  		top:410px;
+  		top:260px;
  }
  .ring5{
 		width: 88px ;
@@ -92,7 +92,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:1650px;
-  		top:400px;
+  		top:280px;
  }
 
 .ring6{
@@ -102,7 +102,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:1850px;
-  		top:440px;
+  		top:320px;
 }
 .ring7{
 		width: 88px ;
@@ -111,7 +111,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:2050px;
-  		top:440px;
+  		top:200px;
   }
 .ring8{
 		width: 88px ;
@@ -122,7 +122,6 @@ body{
   		left:2700px;
   		top:400px;
  }
-
 .ring9{
 		width: 88px ;
  		height:60px ;
@@ -157,7 +156,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:3700px;
-  		top:500px;
+  		top:250px;
  }
  .ring13{
 		width: 88px ;
@@ -166,8 +165,8 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:4500px;
-  		top:500px;
-  	}	
+  		top:380px;
+  }	
  .ring14{
 		width: 88px ;
  		height:60px ;
@@ -175,8 +174,8 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:4500px;
-  		top:425px;
-  }	
+  		top:305px;
+ }	
  .ring15{
 		width: 88px ;
  		height:60px ;
@@ -184,7 +183,7 @@ body{
 		background-size: 100%;
 		position:absolute;
   		left:4500px;
-  		top:350px;
+  		top:230px;
   	}
 .start{
 		background-color: black;
